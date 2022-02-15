@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Handouts
 uid: be89892c-4419-4266-dea9-7cf1c2884c08
 ---
