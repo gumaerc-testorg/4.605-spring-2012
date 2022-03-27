@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 514261a2-e375-a18a-b526-c922e9e82338
 resourcetype: Document
 title: 'Midterm exam study guide: textbook'
 uid: 30b1443b-dcf0-63b3-d46e-3991529fd762

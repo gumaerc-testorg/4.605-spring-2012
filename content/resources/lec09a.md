@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
+parent_uid: be89892c-4419-4266-dea9-7cf1c2884c08
 resourcetype: Other
 title: lec09a.kmz
 uid: fd05f260-2bfa-13cb-c993-56fca4c354e5

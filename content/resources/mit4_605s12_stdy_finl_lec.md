@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 514261a2-e375-a18a-b526-c922e9e82338
 resourcetype: Document
 title: 'Final exam study guide: lectures'
 uid: 3d7700c3-0252-1e95-635b-37fc513181f3
