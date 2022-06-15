@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents study guides for the midterm and final exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -10,10 +11,10 @@ Exam study guides are based on (1) content covered in lectures and (2) assigned 
 
 Midterm exam
 
-*   [Midterm exam study guide: lectures (PDF)]({{< baseurl >}}/resources/mit4_605s12_stdy_mid_lec)
-*   [Midterm exam study guide: textbook (PDF)]({{< baseurl >}}/resources/mit4_605s12_stdy_mid_txt)
+*   {{% resource_link dc3ece71-0c11-37f0-8d5d-a61088f169da "Midterm exam study guide: lectures (PDF)" %}}
+*   {{% resource_link 30b1443b-dcf0-63b3-d46e-3991529fd762 "Midterm exam study guide: textbook (PDF)" %}}
 
 Final exam
 
-*   [Final exam study guide: lectures (PDF)]({{< baseurl >}}/resources/mit4_605s12_stdy_finl_lec)
-*   [Final exam study guide: textbook (PDF)]({{< baseurl >}}/resources/mit4_605s12_stdy_finl_txt)
+*   {{% resource_link 3d7700c3-0252-1e95-635b-37fc513181f3 "Final exam study guide: lectures (PDF)" %}}
+*   {{% resource_link ec34efec-9bb2-67d3-d67b-b4bf3ed63749 "Final exam study guide: textbook (PDF)" %}}

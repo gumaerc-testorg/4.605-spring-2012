@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provide a course overview and information on meeting
+  times, prerequisites, textbook, use of Google Earth for the course, requirements
+  and policies, grading, and the schedule of course topics, exams, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

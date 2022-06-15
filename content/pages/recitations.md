@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides recitation notes for selected discussion sections.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ Topics
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion: first societies (PDF)]({{< baseurl >}}/resources/mit4_605s12_rec01)
+{{% resource_link b69af3d1-fc61-4f30-6e56-210f2403ba40 "Discussion: first societies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ R1
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion: The MIT Chapel (PDF)]({{< baseurl >}}/resources/mit4_605s12_rec02)
+{{% resource_link d6100319-8938-d107-03da-6173768aef13 "Discussion: The MIT Chapel (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ R2
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion section: buildings and representations in time (PDF)]({{< baseurl >}}/resources/mit4_605s12_rec03)
+{{% resource_link 37e0fb2e-ee85-1d38-2026-86e3bb27da1e "Discussion section: buildings and representations in time (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ R3
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion: the pyramids (PDF)]({{< baseurl >}}/resources/mit4_605s12_rec04)
+{{% resource_link 1fa6fbfb-2971-2b48-bac6-7ec777a6609d "Discussion: the pyramids (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +88,7 @@ Source: _Vitruvius Ten Books on Architecture_, trans. Ingrid D. Rowland. Cambrid
 R9
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion: the plan of St. Gall (PDF)]({{< baseurl >}}/resources/mit4_605s12_rec09)
+{{% resource_link ed5a265d-3ee1-a9f3-f301-b47ab05ef200 "Discussion: the plan of St. Gall (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

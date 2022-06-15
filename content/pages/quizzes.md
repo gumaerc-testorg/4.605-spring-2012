@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides quizzes that were given at the start of many lectures.
+  The table associates each quiz with the lecture it covers, rather than the lecture
+  session in which it was given.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -27,7 +30,7 @@ QUIZZES ON LECTURE TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[The Gravettians and the hunting tradition of the north (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz02)
+{{% resource_link 7de0a0ed-08e2-a3db-2103-e1a6f5e3c17e "The Gravettians and the hunting tradition of the north (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +39,7 @@ QUIZZES ON LECTURE TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Grains, animals and the village world (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz04)
+{{% resource_link 6d18b917-42b1-eb25-2f60-f3e20c18498d "Grains, animals and the village world (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +48,7 @@ QUIZZES ON LECTURE TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Cities, gods and empires (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz05)
+{{% resource_link b55fab82-4522-aa74-bd6a-2bac10bcf58f "Cities, gods and empires (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +57,7 @@ QUIZZES ON LECTURE TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Pits and granaries: the sacred section (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz06)
+{{% resource_link 1ac8ea3d-1cb0-7931-0ff5-78a5ccce4525 "Pits and granaries: the sacred section (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +66,7 @@ QUIZZES ON LECTURE TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[1500 BCE: After the Cataclysm: Knossos and Karnak (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz07)
+{{% resource_link e33f6f8d-7840-da6d-634f-d60bbd30bf76 "1500 BCE: After the Cataclysm: Knossos and Karnak (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +75,7 @@ QUIZZES ON LECTURE TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[800 BCE: Iron and the New World Order: Greeks, Etruscans, Assyrians (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz08)
+{{% resource_link c17f9427-60a1-8766-53de-a35a40b8d43b "800 BCE: Iron and the New World Order: Greeks, Etruscans, Assyrians (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +84,7 @@ QUIZZES ON LECTURE TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[500 BCE: Persia and Central Asia (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz09)
+{{% resource_link 0a5e5445-e2fa-7450-06d5-e89ebe37d2a8 "500 BCE: Persia and Central Asia (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +93,7 @@ QUIZZES ON LECTURE TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Buddhism: Out of India (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz11)
+{{% resource_link 157e4a61-e606-b250-16ed-3f4977dd620a "Buddhism: Out of India (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +102,7 @@ QUIZZES ON LECTURE TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Chang'an (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz12)
+{{% resource_link 054847da-229c-b0db-48bc-5de4ce579d21 "Chang'an (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +111,7 @@ QUIZZES ON LECTURE TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Rome (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz13)
+{{% resource_link 576b9069-257b-14ae-6e08-6a8f710bb95f "Rome (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +120,7 @@ QUIZZES ON LECTURE TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Early Islam: 800 CE (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz17)
+{{% resource_link 32810760-2a94-d853-4ceb-ba1678c8fac4 "Early Islam: 800 CE (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ QUIZZES ON LECTURE TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[From Armenia to Borobudur (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz18)
+{{% resource_link 962ef8d9-bf1f-1033-40c3-0df5008ba756 "From Armenia to Borobudur (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +138,7 @@ QUIZZES ON LECTURE TOPICS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Early Hindu architecture (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz19)
+{{% resource_link 4b10b7b6-224d-ceb3-3f6a-13bbe5a054b3 "Early Hindu architecture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +147,7 @@ QUIZZES ON LECTURE TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Southeast Asia and Angkor Wat (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz20)
+{{% resource_link 502bffaa-dcd3-4c0d-7e32-1cb766463f53 "Southeast Asia and Angkor Wat (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +156,7 @@ QUIZZES ON LECTURE TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Gothic architecture: Cistercians & cathedrals (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz21)
+{{% resource_link f7b80970-3417-69a1-af87-111e439b8979 "Gothic architecture: Cistercians & cathedrals (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +165,7 @@ QUIZZES ON LECTURE TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Late medieval Europe: Renaissance in perspective (PDF)]({{< baseurl >}}/resources/mit4_605s12_quiz22)
+{{% resource_link c469bb91-eff5-4713-7d3d-10d17b943b69 "Late medieval Europe: Renaissance in perspective (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
