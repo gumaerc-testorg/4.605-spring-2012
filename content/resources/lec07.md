@@ -6,6 +6,7 @@ file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spri
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec07.kmz
 uid: 04724c08-3066-275f-23cb-f99ce0b94a8c
 ---
 This is a supporting file of 1500 BCE: After the Cataclysm: Knossos and Karnak.
-

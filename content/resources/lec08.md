@@ -6,6 +6,7 @@ file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spri
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec08.kmz
 uid: 5daf279e-8c66-af23-f473-b0648862af88
 ---
 This is a supporting file of 800 BCE: Iron and the New World Order: Greeks, Etruscans, Assyrians.
-

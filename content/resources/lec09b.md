@@ -5,6 +5,7 @@ file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spri
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec09b.kmz
 uid: 2d8cf333-ca79-25fb-4a8e-b80bb6a379eb
 ---
 This is a supporting file of 500 BCE: Persia and Central Asia.
-
