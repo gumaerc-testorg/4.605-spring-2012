@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding sample notes using the template.
-file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/159d524707562167293ac5ea0d22fc1e_MIT4_605S12_lec_note_sampl.pdf
+file: /ol-ocw-studio-app/courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/159d524707562167293ac5ea0d22fc1e_MIT4_605S12_lec_note_sampl.pdf
 file_size: 788500
 file_type: application/pdf
 learning_resource_types:
