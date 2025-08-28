@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a supporting file of 800 BCE: Iron and the New World Order:
   Greeks, Etruscans, Assyrians.'
-file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/5daf279e8c66af23f473b0648862af88_lec08.kmz
+file: /ol-ocw-studio-app/courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/5daf279e8c66af23f473b0648862af88_lec08.kmz
 file_size: 1857
 file_type: application/zip
 learning_resource_types:
