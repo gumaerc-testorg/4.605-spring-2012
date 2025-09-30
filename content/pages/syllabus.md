@@ -36,7 +36,7 @@ Ching, Francis, Mark Jarzombek, and Vikram Prakash. _A Global History of Archite
 Google Earth
 ------------
 
-[Google Earth](http://www.google.com/earth/) is an important resource for this course, and will be used during lectures. The textbook comes with many Google Earth .kmz files, and some assignments will also require its use.
+{{% resource_link "98a90551-ddb2-4995-a231-55d15b0b93fd" "Google Earth" %}} is an important resource for this course, and will be used during lectures. The textbook comes with many Google Earth .kmz files, and some assignments will also require its use.
 
 Requirements and Policies
 -------------------------

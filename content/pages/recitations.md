@@ -77,7 +77,7 @@ In lieu of notes, students referred to an excerpt of Vitruvius' _De architectura
 
 Source: _Vitruvius Ten Books on Architecture_, trans. Ingrid D. Rowland. Cambridge University Press, 1999.
 
-(Note for OCW users, an [alternate translation by Morris Hicky Morgan](http://en.wikisource.org/wiki/Ten_Books_on_Architecture) (1914) is available online.)
+(Note for OCW users, an {{% resource_link "b66f9517-90d3-4e8b-8a6c-fd1f5b3efc26" "alternate translation by Morris Hicky Morgan" %}} (1914) is available online.)
 
 
 {{< tdclose >}}
